@@ -2,8 +2,7 @@
 <li>Hi guys, my name is Ricardo and I'm currently starting my career as a developer, I'm new in the field.</li>
 <li>I currently live in são paulo (:brazil:) </li>
 
-## Forms of contact
-<a/>   
+## Forms of contact  
    <a href="https://web.facebook.com/riicardocamarinha" target="_blank">
    <img alt="RicardoCamarinha-Facebook" height="53" width="53" src="https://user-images.githubusercontent.com/85380483/127405974-e67ae5a2-c3dd-4c32-aa24-b9203ebb7bf1.png" style="max-widht:100%;">
    <a/>
