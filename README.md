@@ -1,6 +1,8 @@
-## Hey! 👋
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey! 
+<li>Welcome to my profile</li>
 <li>Hi guys, my name is Ricardo and I'm currently starting my career as a developer, I'm new in the field.</li>
-<li>I currently live in são paulo (:brazil:) </li>
+<li>Currently just studying</li>
+<li>I currently live in são paulo (:brazil:)</li>
 
 ## Forms of contact  
    <a href="https://web.facebook.com/riicardocamarinha" target="_blank">
