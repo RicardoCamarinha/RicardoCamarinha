@@ -13,8 +13,7 @@
   <a href="https://user-images.githubusercontent.com/85380483/127408618-2bdd66b7-9706-48ef-8903-d9809a2d275f.png">
   <img alt="html" height="50" width="50" src="https://user-images.githubusercontent.com/85380483/127408618-2bdd66b7-9706-48ef-8903-d9809a2d275f.png" style="max-widht:100%;">
      
-  <a href="https://user-images.githubusercontent.com/85380483/127408619-9d8b9df5-d0d9-4a26-a7f9-08ef418569c5.png">
-  <img alt="css" height="50" width="50" src="https://user-images.githubusercontent.com/85380483/127408619-9d8b9df5-d0d9-4a26-a7f9-08ef418569c5.png" style="max-widht:100%;">
+
    
  
      
