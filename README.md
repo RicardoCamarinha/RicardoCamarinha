@@ -5,16 +5,8 @@
 <li>I currently live in são paulo (:brazil:)</li>
 
  
-## My Skills
   
-   <a href="https://user-images.githubusercontent.com/85380483/152661746-db36d2cc-583b-47d2-994c-0bc807c4d7f0.png">
-  <img alt="css" height="44" width="44" src="https://user-images.githubusercontent.com/85380483/152661746-db36d2cc-583b-47d2-994c-0bc807c4d7f0.png" style="max-widht:100%;">
-  
-  <a href="https://user-images.githubusercontent.com/85380483/127408618-2bdd66b7-9706-48ef-8903-d9809a2d275f.png">
-  <img alt="html" height="50" width="50" src="https://user-images.githubusercontent.com/85380483/127408618-2bdd66b7-9706-48ef-8903-d9809a2d275f.png" style="max-widht:100%;">
-  
-   <a href="https://user-images.githubusercontent.com/85380483/152661746-db36d2cc-583b-47d2-994c-0bc807c4d7f0.png">
-  <img alt="css" height="44" width="44" src="https://user-images.githubusercontent.com/85380483/152661746-db36d2cc-583b-47d2-994c-0bc807c4d7f0.png" style="max-widht:100%;">
+
      
 
    
